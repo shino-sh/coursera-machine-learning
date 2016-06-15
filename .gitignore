@@ -1,4 +1,5 @@
 .DS_Store
 lib/
 *.pdf
+*.swp
 token.mat
