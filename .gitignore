@@ -2,4 +2,4 @@
 lib/
 *.pdf
 *.swp
-token.mat
+*.mat
